@@ -1,5 +1,5 @@
 ==HOWTO==
-1. Move the images you would like to manipulate to the same directory as project4.m
+1. Move the images you would like to manipulate to the same directory as SVDCompression.m
 2. Run the project4.m in MATLAB
 3. At the prompt, enter the filename of your image, OR press return to skip
 4. If you have your own matrix to input, enter it at the following prompt, OR press return to skip.
